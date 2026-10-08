@@ -76,6 +76,14 @@ Please review the repository-specific contribution guidelines before submitting 
 
 ---
 
+## Community
+
+💬 Enter to our community chat:
+
+- Teams: https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDI4MTQ0NWUtZGU5Yi00YTgzLWIzNzctOWE0YTFlZGFmMzY4%40thread.v2/0?context=%7b%22Tid%22%3a%22d7dda5bb-4810-469b-a681-7e1bc4b84ce9%22%2c%22Oid%22%3a%22577fb751-3c09-43a1-8e5c-dca043e26dcf%22%7d
+
+---
+
 ## Code of Conduct
 
 We are committed to maintaining an open, inclusive, and respectful environment for all contributors and users.
