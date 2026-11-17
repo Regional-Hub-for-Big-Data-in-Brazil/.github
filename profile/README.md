@@ -49,7 +49,47 @@ Training programs, webinars, workshops, technical cooperation initiatives, and k
 Applied research projects focused on emerging technologies, digital transformation, and modern statistical production systems.
 
 ---
+---
 
+## ⭐ Featured Projects
+
+### 📖 Documentation Training Materials
+
+Training resources, workshops, presentations, tutorials, and capacity-building materials developed by the Regional Hub for Big Data in Brazil.
+
+🔗 Repository:
+https://github.com/Regional-Hub-for-Big-Data-in-Brazil/Documentation-Training-Materials
+
+---
+
+### 📈 Big Data Methodologies
+
+Methodologies, frameworks, case studies, and reproducible workflows for the application of Big Data in Official Statistics.
+
+🔗 Repository:
+https://github.com/Regional-Hub-for-Big-Data-in-Brazil/big-data-methodologies
+
+---
+
+### 📑 Hub Documentation
+
+Official documentation covering governance, standards, procedures, technical references, and operational guidelines.
+
+🔗 Repository:
+https://github.com/Regional-Hub-for-Big-Data-in-Brazil/hub-documentation
+
+---
+
+### 💬 Discussions
+
+A collaborative space for community engagement, knowledge exchange, project proposals, technical discussions, and networking among researchers and practitioners.
+
+🔗 Repository:
+https://github.com/Regional-Hub-for-Big-Data-in-Brazil/discussions
+
+---
+
+---
 ## 🛠 Featured Repositories
 
 ### 📖 Documentation & Training Materials
