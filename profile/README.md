@@ -97,27 +97,8 @@ https://github.com/Regional-Hub-for-Big-Data-in-Brazil/discussions
 ---
 
 ---
-## 🛠 Featured Repositories
 
-### 📖 Documentation & Training Materials
-
-Training resources, guides, tutorials and learning materials.
-
-### 📈 Big Data Methodologies
-
-Methodological frameworks, case studies and reproducible workflows for official statistics.
-
-### 📑 Hub Documentation
-
-Technical documentation, governance materials and operational guidelines.
-
-### 💬 Discussions
-
-Community interaction, collaboration opportunities and knowledge exchange.
-
----
-
-## 📦 Repositories
+## 📦 Featured Repositories
 
 | Repository | Description |
 |------------|-------------|
