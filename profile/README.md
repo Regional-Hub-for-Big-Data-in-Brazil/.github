@@ -73,14 +73,15 @@ Community interaction, collaboration opportunities and knowledge exchange.
 
 ## 📦 Repositories
 
-The Regional Hub for Big Data in Brazil maintains repositories that support research, training, collaboration, and the adoption of innovative technologies for Official Statistics.
-
 | Repository | Description |
 |------------|-------------|
-| **Documentation-Training-Materials** | Training materials, guides, presentations, tutorials, and capacity-building resources. |
-| **big-data-methodologies** | Methodologies, frameworks, workflows, and case studies for the use of Big Data in Official Statistics. |
-| **hub-documentation** | Official documentation, governance materials, standards, procedures, and technical references. |
-| **discussions** | Community discussions, collaboration opportunities, ideas, questions, and knowledge exchange. |
+| [Documentation-Training-Materials](https://github.com/Regional-Hub-for-Big-Data-in-Brazil/Documentation-Training-Materials) | Training materials, tutorials and capacity-building resources. |
+| [big-data-methodologies](https://github.com/Regional-Hub-for-Big-Data-in-Brazil/big-data-methodologies) | Big Data methodologies and reproducible workflows for Official Statistics. |
+| [hub-documentation](https://github.com/Regional-Hub-for-Big-Data-in-Brazil/hub-documentation) | Hub documentation, governance and technical references. |
+| [discussions](https://github.com/Regional-Hub-for-Big-Data-in-Brazil/discussions) | Community discussions and collaboration space. |
+
+➡️ **View all repositories:** https://github.com/orgs/Regional-Hub-for-Big-Data-in-Brazil/repositories
+
 
 ### Repository Categories
 
