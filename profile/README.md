@@ -319,7 +319,7 @@ Documentation contributions are highly encouraged:
 
 Research-related contributions should:
 
-- Cite sources appropriately.
+- Name sources appropriately.
 - Include methodological transparency.
 - Support reproducibility.
 - Follow scientific best practices.
