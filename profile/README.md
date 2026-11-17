@@ -69,7 +69,6 @@ Technical documentation, governance materials and operational guidelines.
 Community interaction, collaboration opportunities and knowledge exchange.
 
 ---
----
 
 ## 📦 Repositories
 
@@ -79,9 +78,6 @@ Community interaction, collaboration opportunities and knowledge exchange.
 | [big-data-methodologies](https://github.com/Regional-Hub-for-Big-Data-in-Brazil/big-data-methodologies) | Big Data methodologies and reproducible workflows for Official Statistics. |
 | [hub-documentation](https://github.com/Regional-Hub-for-Big-Data-in-Brazil/hub-documentation) | Hub documentation, governance and technical references. |
 | [discussions](https://github.com/Regional-Hub-for-Big-Data-in-Brazil/discussions) | Community discussions and collaboration space. |
-
-➡️ **View all repositories:** https://github.com/orgs/Regional-Hub-for-Big-Data-in-Brazil/repositories
-
 
 ### Repository Categories
 
@@ -143,6 +139,188 @@ Browse all projects in the organization:
 
 👉 https://github.com/orgs/Regional-Hub-for-Big-Data-in-Brazil/repositories
 ---
+
+---
+
+## 🤝 How to Contribute
+
+We welcome contributions from statisticians, researchers, developers, data scientists, government institutions, National Statistical Offices (NSOs), international organizations, and the broader open-source community.
+
+### Contribution Workflow
+
+#### 1. Find a Project
+
+Browse the available repositories and identify an issue, enhancement, documentation update, or research contribution that matches your expertise.
+
+👉 Explore repositories:
+- Documentation-Training-Materials
+- big-data-methodologies
+- hub-documentation
+- discussions
+
+#### 2. Open an Issue
+
+Before starting significant work:
+
+- Check whether a similar issue already exists.
+- Create a new issue if necessary.
+- Clearly describe the problem, proposed enhancement, or use case.
+- Discuss the approach with repository maintainers when applicable.
+
+#### 3. Fork the Repository
+
+Create your own copy of the repository:
+
+```bash
+git clone https://github.com/YOUR-USERNAME/REPOSITORY.git
+```
+
+Configure the upstream repository:
+
+```bash
+git remote add upstream https://github.com/Regional-Hub-for-Big-Data-in-Brazil/REPOSITORY.git
+```
+
+#### 4. Create a Feature Branch
+
+Use descriptive branch names:
+
+```bash
+git checkout -b feature/improve-methodology
+```
+
+Examples:
+
+```text
+feature/add-ml-model
+feature/update-training-material
+fix/documentation-links
+docs/user-guide-improvements
+```
+
+#### 5. Make Your Changes
+
+Please ensure that your contribution:
+
+- Follows repository standards.
+- Includes documentation updates when necessary.
+- Maintains reproducibility.
+- Includes examples and usage instructions whenever possible.
+- Respects privacy, confidentiality, and ethical principles.
+
+#### 6. Test Your Work
+
+Before submitting:
+
+- Run all tests, if available.
+- Validate notebooks and scripts.
+- Review documentation.
+- Verify reproducibility of examples.
+
+#### 7. Commit Your Changes
+
+Use meaningful commit messages:
+
+```bash
+git commit -m "Add methodology for satellite imagery processing"
+```
+
+Examples:
+
+```text
+Add web scraping workflow
+Improve training documentation
+Fix geospatial processing bug
+Update AI classification examples
+```
+
+#### 8. Push the Branch
+
+```bash
+git push origin feature/improve-methodology
+```
+
+#### 9. Submit a Pull Request
+
+Create a Pull Request (PR) that includes:
+
+- A clear summary of the contribution.
+- Motivation and objectives.
+- Related issue number(s).
+- Documentation updates.
+- Screenshots or examples when applicable.
+
+#### 10. Participate in Review
+
+Maintainers may request:
+
+- Code improvements
+- Documentation updates
+- Additional tests
+- Reproducibility validation
+
+Please respond to feedback and update the Pull Request as needed.
+
+---
+
+## Contribution Guidelines
+
+### Code
+
+Preferred technologies may include:
+
+- Python
+- R
+- SQL
+- Jupyter Notebooks
+- GIS Tools
+- Machine Learning Frameworks
+
+### Documentation
+
+Documentation contributions are highly encouraged:
+
+- Tutorials
+- User Guides
+- Workshop Materials
+- Methodological Notes
+- Technical Reports
+- Examples and Demonstrations
+
+### Research Products
+
+Research-related contributions should:
+
+- Cite sources appropriately.
+- Include methodological transparency.
+- Support reproducibility.
+- Follow scientific best practices.
+
+---
+
+## Code of Conduct
+
+By participating in this organization, you agree to:
+
+- Be respectful and inclusive.
+- Encourage collaboration and knowledge sharing.
+- Maintain professional conduct.
+- Support open and constructive discussions.
+
+---
+
+## Need Help?
+
+If you have questions before contributing:
+
+1. Open a discussion in the corresponding repository.
+2. Create an issue describing your question.
+3. Contact the repository maintainers for project-specific guidance.
+
+We appreciate your interest in advancing the use of Big Data, Artificial Intelligence, Geospatial Information, and Official Statistics through open collaboration.
+
+---
+
 ## Open Source Commitment
 
 We believe that open-source software accelerates innovation, transparency, reproducibility, and collaboration.
