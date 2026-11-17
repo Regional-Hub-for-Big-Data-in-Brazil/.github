@@ -4,6 +4,10 @@ Welcome to the Regional Hub for Big Data in Brazil GitHub Organization.
 
 This organization hosts open-source projects, tools, methodologies, training materials, and research products developed or supported by the Regional Hub for Big Data in Brazil and its partners.
 
+The Regional Hub promotes the adoption of Big Data, Artificial Intelligence, Machine Learning, Geospatial Analytics, and other emerging technologies to strengthen Official Statistics across Latin America and the Caribbean.
+
+Through open collaboration, capacity building, research, and innovation, we support National Statistical Offices (NSOs), public institutions, universities, and international organizations in modernizing statistical production systems.
+
 The content shared in this organization aims to promote innovation, collaboration, capacity building, and the responsible use of data science, Big Data, Artificial Intelligence, geospatial information, and emerging technologies for the production and dissemination of official statistics.
 
 > The Regional Hub for Big Data in Brazil contributes to advancing the use of Big Data and innovative data sources to improve official statistics and support evidence-based decision-making across Latin America and the Caribbean.
@@ -46,6 +50,27 @@ Applied research projects focused on emerging technologies, digital transformati
 
 ---
 
+## 🛠 Featured Repositories
+
+### 📖 Documentation & Training Materials
+
+Training resources, guides, tutorials and learning materials.
+
+### 📈 Big Data Methodologies
+
+Methodological frameworks, case studies and reproducible workflows for official statistics.
+
+### 📑 Hub Documentation
+
+Technical documentation, governance materials and operational guidelines.
+
+### 💬 Discussions
+
+Community interaction, collaboration opportunities and knowledge exchange.
+
+---
+
+
 ## Open Source Commitment
 
 We believe that open-source software accelerates innovation, transparency, reproducibility, and collaboration.
@@ -73,14 +98,6 @@ You can contribute by:
 - Sharing use cases and applications.
 
 Please review the repository-specific contribution guidelines before submitting contributions.
-
----
-
-## Community
-
-💬 Enter to our community chat:
-
-- ...
 
 ---
 
@@ -116,6 +133,16 @@ https://hub.ibge.gov.br/research_products.htm
 
 🎓 Events, Workshops and Webinars:
 https://hub.ibge.gov.br/
+
+🏛️ IBGE: https://www.ibge.gov.br
+  
+🎓 ENCE: https://ence.ibge.gov.br
+
+---
+
+## 💬 Community
+
+Join our community and collaborate with researchers, statisticians, data scientists and public institutions working on innovative approaches to Official Statistics.
 
 ---
 
