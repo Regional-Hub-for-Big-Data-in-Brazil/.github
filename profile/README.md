@@ -49,7 +49,6 @@ Training programs, webinars, workshops, technical cooperation initiatives, and k
 Applied research projects focused on emerging technologies, digital transformation, and modern statistical production systems.
 
 ---
----
 
 ## ⭐ Featured Projects
 
@@ -59,6 +58,14 @@ Training resources, workshops, presentations, tutorials, and capacity-building m
 
 🔗 Repository:
 https://github.com/Regional-Hub-for-Big-Data-in-Brazil/Documentation-Training-Materials
+
+---
+
+### 🎥 [Videos](https://hub.ibge.gov.br/videos.htm)
+
+Explore recordings of workshops, webinars, tutorials, and training sessions organized by the Regional Hub for Big Data in Brazil.
+
+These videos support capacity-building activities in Big Data, Data Science, Artificial Intelligence, Geospatial Information, Official Statistics, and Sustainable Development. The collection complements the documentation, concept notes, datasets, and educational materials available pointed by this link.
 
 ---
 
@@ -130,7 +137,6 @@ Resources designed to support learning and knowledge transfer:
 - Webinars
 - Tutorials
 - Technical Guides
-- [Videos](https://hub.ibge.gov.br/videos.htm)
 
 #### 📈 Methodologies
 
