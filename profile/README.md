@@ -130,6 +130,7 @@ Resources designed to support learning and knowledge transfer:
 - Webinars
 - Tutorials
 - Technical Guides
+- [Videos](https://hub.ibge.gov.br/videos.htm)
 
 #### 📈 Methodologies
 
