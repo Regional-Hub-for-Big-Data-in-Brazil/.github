@@ -69,8 +69,79 @@ Technical documentation, governance materials and operational guidelines.
 Community interaction, collaboration opportunities and knowledge exchange.
 
 ---
+---
 
+## 📦 Repositories
 
+The Regional Hub for Big Data in Brazil maintains repositories that support research, training, collaboration, and the adoption of innovative technologies for Official Statistics.
+
+| Repository | Description |
+|------------|-------------|
+| **Documentation-Training-Materials** | Training materials, guides, presentations, tutorials, and capacity-building resources. |
+| **big-data-methodologies** | Methodologies, frameworks, workflows, and case studies for the use of Big Data in Official Statistics. |
+| **hub-documentation** | Official documentation, governance materials, standards, procedures, and technical references. |
+| **discussions** | Community discussions, collaboration opportunities, ideas, questions, and knowledge exchange. |
+
+### Repository Categories
+
+#### 📚 Training & Capacity Building
+
+Resources designed to support learning and knowledge transfer:
+
+- Training courses
+- Workshops
+- Webinars
+- Tutorials
+- Technical Guides
+
+#### 📈 Methodologies
+
+Projects focused on:
+
+- Big Data Methods
+- Machine Learning Applications
+- Data Integration
+- Statistical Production Processes
+- Reproducible Research
+
+#### 🌍 Geospatial & Data Science
+
+Repositories related to:
+
+- Geospatial Analytics
+- Satellite Imagery
+- Spatial Statistics
+- GIS Applications
+- Remote Sensing
+
+#### 🤖 Artificial Intelligence
+
+Research and development involving:
+
+- Machine Learning
+- Natural Language Processing (NLP)
+- Computer Vision
+- Large Language Models (LLMs)
+- AI for Official Statistics
+
+#### 📑 Documentation & Governance
+
+Resources supporting transparency and collaboration:
+
+- Technical Documentation
+- Standards and Guidelines
+- Best Practices
+- Governance Documents
+- Project Management Information
+
+---
+
+### 🔎 Explore All Repositories
+
+Browse all projects in the organization:
+
+👉 https://github.com/orgs/Regional-Hub-for-Big-Data-in-Brazil/repositories
+---
 ## Open Source Commitment
 
 We believe that open-source software accelerates innovation, transparency, reproducibility, and collaboration.
